@@ -1,0 +1,10 @@
+{
+  "name": "chatbot-backend",
+  "version": "1.0.0",
+  "description": "AWS Lambda function for AI-powered chatbot",
+  "main": "lambda-function.js",
+  "dependencies": {
+    "aws-sdk": "^2.1374.0"
+  }
+}
+
